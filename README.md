@@ -12,6 +12,5 @@ npm start
 
 
 
-![Test Image 1](https://imgur.com/a/GjN4yhc)
 ![Test Image 2](https://i.imgur.com/f0Mby3s.png)
 
